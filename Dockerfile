@@ -1,3 +1,3 @@
-FROM alpine:3.4
+FROM alpine:3.5
 
-MAINTAINER Aurimas Niekis <aurimas@niekis.lt>
+LABEL maintainer "Aurimas Niekis <aurimas@niekis.lt>"

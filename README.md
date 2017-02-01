@@ -8,5 +8,5 @@
 [![ImageLayers](https://imagelayers.io/badge/veizor/base:latest.svg)](https://imagelayers.io/?images=veizor/base:latest 'Get your own badge on imagelayers.io')
 
 
-A base Docker Image based on Docker Alpine v3.4 image. Used in all Veizor images.
+A base Docker Image based on Docker Alpine v3.5 image. Used in all Veizor images.
 
